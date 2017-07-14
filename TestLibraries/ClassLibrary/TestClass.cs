@@ -6,5 +6,6 @@ namespace ClassLibrary
     {
         public int TestNumber { get; set; }
         public string TestValue { get; set; }
+        public bool TestFlag { get; set; }
     }
 }
